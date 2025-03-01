@@ -1,0 +1,49 @@
+- https://youtu.be/OaHFyZtN0iM
+	- Dividend Yield:
+		- The percentage of profits a company decides to give to its investors.
+		- If it is high, that means the company does not know what to do with its profits. On the other hand, if it is low, it means the company believes it can give better returns on the profit its earned.
+		- Eg. Berkshire Hathaway never gave dividend yield.
+		- High dividend yield might mean decreasing stock value, but there is an exception. If a company does not need its cash, it might be valuable and also might give high dividend yield. High cash might also mean high dividend yield.
+	- Face Value:
+		- The actual value of the share, not the current traded value.
+		- It **should** not be used to decide if the stock is valuable. 
+		- It can be compared to gold and iron. A stock can be traded at very high value than its face value. That might mean the stock is actually valuable (Mahindra etc)
+	- Promoter holding:
+		- The amount of share the owner of the company has.
+		- It should be greater than 35-40%.
+		- Banks' case is different. RBI mandates promoter holding should not be greater than 35%.
+		- It should be checked in comparison with the pledge. Pledge means the owners has put their share as mortgage.
+		- Share Holding Pattern:
+			- DII: Domestic mutual funds and financial institutions
+			- FI: Foreign investors.
+- https://youtu.be/KR_U_X039_k
+	- ROE is the profit made upon the total equity invested.
+	- PAT Margin is the margin of actual profit earned on the total revenue generated.
+		- Eg: If a salesman buys 10 pencils of ₹10 each and sells them at ₹20 each, PAT Margin becomes 50% and ROE becomes 100%.
+		- Similarly, another salesman buys 10 pencils of ₹10 each and sells them at ₹15 each, PAT Margin falls down to 33%. Since the salesman is selling them at lower prices, he sells 20 more pencils and generates more profits (₹150). Hence, his ROE becomes 150% and PAT Margin becomes around 60%.
+	- High PAT always does not mean good stock, we need to check ROE as well.
+- https://youtu.be/924-bji0I6Y
+	- Asset Turnover:
+		- The number of times a company can generate revenue in reference to asset price. Higher is good.
+	- Cash Cycle:
+		- It shows amount of time it takes for company to convert its investments in inventory to cash. Lower the better.
+		- Can also be negative.
+	- Share Splitting:
+		- It means decreasing the share value, thus increasing shares. Overall share value for a shareholder remains constant. Face value of the share decreases.
+		- It is done to increase liquidity of the share ie. make trading of the share more convenient.
+	- Bonus Shares:
+		- It is issued by the company to shareholder. It is similar to Share splitting, but here the face value of the share does not decreases. However, the book value decreases.
+	- Company/Investor Presentations:
+		- It provides in depth financials for the company. It's important to read this for beginner investors.
+- https://youtu.be/_lQsquuVKqM
+	- Operating Cash Flow:
+		- The net cash given by the customer to the company for its services/products.
+	- Net profit should always be compared with Operating Cash Flow. The 5 years Operating Cash Flow (total) should be equal to the 5 year total net profit. The equivalent ratio is CFO/PAT.
+	- Rights issue allows investors to buy more shares at a discounted price. However, it is bad for both the investors who are interested in buying the rights and who are not buying the rights. Overall the stock becomes less valuable as EPS decreases.
+- https://youtu.be/I13xlJnrC38 + https://youtu.be/Hcnf-IBcvRw
+	- CASA %: It tells the percentage of current/saving account deposit to total deposit/investments.
+	- Net NPA % (Non Performing Assets): It tells the percentage of money the bank couldn't get back. Eg. the money it did not get back while giving loans. Should be low.
+	- Cost of Liabilities %:  The amount of money the bank gives as interest for savings account. It should be checked along with CASA to give a overview of the banks saving/current account performance. Should be low. 
+	- Advances Growth %: The percentage the company increases its loan business. Should be high. Generally, its affected by CAR %. If CASA is kept high and Cost of Liabilities/NPA is kept low, CAR % increases which will affect Advances Growth %.
+	- NIM: It is the margin of interest saved by bank out of total interest it earned. Banks gives interest on saving accounts which is a liability and earns interest on loans which is an asset. NIM is the margin of profit earned by the bank after giving out the interest on the saving account.
+	- ROA: 

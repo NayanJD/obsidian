@@ -1,0 +1,4 @@
+
+Containers are more omnipresent than ever, and so are the container images used to run them. The Open Container Initiative (OCI) has standardized container images, which now also include support for Helm charts, Software Bill of Materials (SBOMs), and more.
+
+I’ve often wondered how these images are stored and shared between systems. In this blog, I share insights into how image pulling and pushing work, as well as how images are stored -> [Inside a container registry: The mechanics of push and pull](https://www.digitalocean.com/blog/inside-container-registry-mechanics-of-push-pull). I hope you find this an enjoyable read!

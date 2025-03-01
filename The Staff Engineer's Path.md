@@ -1,0 +1,2 @@
+
+- [9]Management authority can overshadow technical judgement: reports may feell uncomfortable arguing with a manager's technical decisions even when there's a better solution available. And managing other humans is itself a full-time job. Someone who's investing in being a good people manager will have less time available to stay up to date with technical developments, and anyone who is managing to stay deeply "in the weeds" will be less able to meet the needs of their reports.  
