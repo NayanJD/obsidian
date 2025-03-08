@@ -31,3 +31,20 @@ git push
 5. Git stash changes: `git stash -m "<specific name>"`
 6. Git stash list: `git stash list
 7. Git pop stash top most changes: `git stash pop`
+
+## Use different SSH Key
+
+To use a specific ssh key for a git repository, add below to `~/.ssh/config`:
+
+```
+Host github.com-personal
+	HostName github.com
+	User git
+	IdentityFile ~/.ssh/id_rsa_github
+```
+
+and use this to clone the repository:
+
+```shell
+git clone git@github.com-personal:NayanJD/obsidian.git
+```
